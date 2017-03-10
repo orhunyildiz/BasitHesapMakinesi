@@ -1,0 +1,6 @@
+c:\users\orhun\documents\visual studio 2015\Projects\GitHubHesapMakinesi\GitHubHesapMakinesi\bin\Debug\GitHubHesapMakinesi.exe.config
+c:\users\orhun\documents\visual studio 2015\Projects\GitHubHesapMakinesi\GitHubHesapMakinesi\bin\Debug\GitHubHesapMakinesi.exe
+c:\users\orhun\documents\visual studio 2015\Projects\GitHubHesapMakinesi\GitHubHesapMakinesi\bin\Debug\GitHubHesapMakinesi.pdb
+c:\users\orhun\documents\visual studio 2015\Projects\GitHubHesapMakinesi\GitHubHesapMakinesi\obj\Debug\GitHubHesapMakinesi.csprojResolveAssemblyReference.cache
+c:\users\orhun\documents\visual studio 2015\Projects\GitHubHesapMakinesi\GitHubHesapMakinesi\obj\Debug\GitHubHesapMakinesi.exe
+c:\users\orhun\documents\visual studio 2015\Projects\GitHubHesapMakinesi\GitHubHesapMakinesi\obj\Debug\GitHubHesapMakinesi.pdb
