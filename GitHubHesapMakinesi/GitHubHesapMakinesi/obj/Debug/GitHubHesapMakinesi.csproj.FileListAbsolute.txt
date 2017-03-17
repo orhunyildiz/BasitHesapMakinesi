@@ -10,3 +10,9 @@ C:\Users\Orhun\Documents\GitHub\BasitHesapMakinesi\GitHubHesapMakinesi\GitHubHes
 C:\Users\Orhun\Documents\GitHub\BasitHesapMakinesi\GitHubHesapMakinesi\GitHubHesapMakinesi\bin\Debug\GitHubHesapMakinesi.exe
 C:\Users\Orhun\Documents\GitHub\BasitHesapMakinesi\GitHubHesapMakinesi\GitHubHesapMakinesi\bin\Debug\GitHubHesapMakinesi.pdb
 C:\Users\Orhun\Documents\GitHub\BasitHesapMakinesi\GitHubHesapMakinesi\GitHubHesapMakinesi\obj\Debug\GitHubHesapMakinesi.csprojResolveAssemblyReference.cache
+C:\Users\Bilal Koçak\Documents\GitHub\BasitHesapMakinesi\GitHubHesapMakinesi\GitHubHesapMakinesi\bin\Debug\GitHubHesapMakinesi.exe.config
+C:\Users\Bilal Koçak\Documents\GitHub\BasitHesapMakinesi\GitHubHesapMakinesi\GitHubHesapMakinesi\obj\Debug\GitHubHesapMakinesi.exe
+C:\Users\Bilal Koçak\Documents\GitHub\BasitHesapMakinesi\GitHubHesapMakinesi\GitHubHesapMakinesi\obj\Debug\GitHubHesapMakinesi.pdb
+C:\Users\Bilal Koçak\Documents\GitHub\BasitHesapMakinesi\GitHubHesapMakinesi\GitHubHesapMakinesi\bin\Debug\GitHubHesapMakinesi.exe
+C:\Users\Bilal Koçak\Documents\GitHub\BasitHesapMakinesi\GitHubHesapMakinesi\GitHubHesapMakinesi\bin\Debug\GitHubHesapMakinesi.pdb
+C:\Users\Bilal Koçak\Documents\GitHub\BasitHesapMakinesi\GitHubHesapMakinesi\GitHubHesapMakinesi\obj\Debug\GitHubHesapMakinesi.csprojResolveAssemblyReference.cache
